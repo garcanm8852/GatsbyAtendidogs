@@ -1,3 +1,12 @@
 .header {
     color: rgb(255, 0, 0)!important;
 }
+
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+.blue1 {
+    color: #59a7f5!important;
+}
