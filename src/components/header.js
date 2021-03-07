@@ -2,7 +2,7 @@ import React from "react";
 
 import {Navbar, Nav, NavDropdown, Button} from "react-bootstrap";
 import * as headerStyles  from "../styles/header.module.css";
-import logo from "../img/atendidogs-4.png";
+import logo from "../IMG/atendidogs-4.png";
 
 export default (props) => (
     <Navbar bg="light" expand="lg" className="justify-content-center">
